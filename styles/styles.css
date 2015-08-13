@@ -30,7 +30,11 @@ html, body {
 svg {
 	height: auto;
 	width: 200px;
-	margin-top: 40px;
+	margin: 20px 20px;
+}
+
+.margin20 {
+	margin: 20px;
 }
 
 .devicons {
