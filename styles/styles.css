@@ -46,9 +46,8 @@ svg {
 	z-index: 100;
 	padding: 0px 40px;
 	width: 100%;
-	/*border-bottom: 1px solid black;*/
-	font-size: 18px;
-	height: 70px;
+	font-size: 30px;
+	/*height: 70px;*/
 }
 
 .background-trans-dark {
